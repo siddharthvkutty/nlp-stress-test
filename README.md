@@ -10,7 +10,7 @@ Robustness testing and adversarial attack toolkit for modern NLP models
   <img src="https://img.shields.io/github/last-commit/siddharthvkutty/nlp-stress-test?style=flat" alt="Last commit">
 </p>
 
-**nlp-stress-test** is a modular, extensible framework to evaluate how well current NLP models (especially LLMs and classic transformers) hold up under adversarial conditions, distribution shift, edge cases, typos, noise, paraphrasing, and targeted attacks.
+**nlp-stress-test** is a modular, extensible framework to evaluate how well current NLP models (specifically classic transformers such as BERT, RoBERTa, and DistilBERT) hold up under adversarial conditions, distribution shift, edge cases, typos, noise, paraphrasing, and targeted attacks.
 
 Goal: help researchers & practitioners understand real-world failure modes before deploying models in production.
 
