@@ -1,0 +1,49 @@
+text,ensemble_label,vote_strength
+"Affordable price, but disappointing results.",NEGATIVE,0.6666666666666666
+"Amazing product, returned it immediately.",POSITIVE,0.6666666666666666
+"Amazing quality, truly.",POSITIVE,0.6666666666666666
+"Decent product, but could be better.",POSITIVE,0.6666666666666666
+"Excellent idea, awful execution.",NEGATIVE,0.6666666666666666
+"Fast performance, but terrible build quality.",NEGATIVE,0.6666666666666666
+"Good idea, but poorly executed.",NEGATIVE,0.6666666666666666
+Great job on the battery life.,POSITIVE,0.6666666666666666
+"Great phone, died in two hours.",NEGATIVE,0.6666666666666666
+I am not happy with this phone.,NEGATIVE,0.6666666666666666
+I asked for a refund.,,0.6666666666666666
+I can’t really recommend this.,NEGATIVE,0.6666666666666666
+I don’t think this works well.,NEGATIVE,0.6666666666666666
+I don’t use it anymore.,NEGATIVE,0.6666666666666666
+I expected nothing and was still disappointed.,NEGATIVE,0.6666666666666666
+I have no words.,NEGATIVE,0.6666666666666666
+I like it.,POSITIVE,0.6666666666666666
+I moved on quickly.,,0.6666666666666666
+I replaced it within a week.,,0.6666666666666666
+I returned it the same day.,,0.6666666666666666
+I stopped using it.,NEGATIVE,0.6666666666666666
+I wouldn’t say this phone is good.,NEGATIVE,0.6666666666666666
+It certainly exists.,,0.6666666666666666
+It hasn’t been touched since.,NEGATIVE,0.6666666666666666
+It is wonderful.,POSITIVE,0.6666666666666666
+It’s been sitting unused.,NEGATIVE,0.6666666666666666
+It’s gathering dust.,NEGATIVE,0.6666666666666666
+It’s not exactly impressive.,NEGATIVE,0.6666666666666666
+"It’s okay, but nothing special.",,0.6666666666666666
+It’s still in the box.,,0.6666666666666666
+"Just perfect, really.",POSITIVE,0.6666666666666666
+"Looks wonderful, works terribly.",,0.3333333333333333
+Love how it stopped working.,,0.3333333333333333
+"Nice design, shame about everything else.",,0.3333333333333333
+"Nice screen, but everything else fails.",NEGATIVE,0.6666666666666666
+No Problem,,0.6666666666666666
+"Not bad, but not great either.",NEGATIVE,0.6666666666666666
+"Not terrible, but not impressive.",NEGATIVE,0.6666666666666666
+That was an experience.,POSITIVE,0.6666666666666666
+"The camera is good, but the battery is awful.",NEGATIVE,0.6666666666666666
+The experience was not pleasant.,NEGATIVE,0.6666666666666666
+"The phone works, but has issues.",,0.6666666666666666
+The service was not helpful.,NEGATIVE,0.6666666666666666
+This is not what I wanted.,NEGATIVE,0.6666666666666666
+This product is not good.,NEGATIVE,0.6666666666666666
+"Usable, but frustrating.",NEGATIVE,0.6666666666666666
+"Well, that happened.",,0.6666666666666666
+"Yeah, fantastic phone.",POSITIVE,0.6666666666666666

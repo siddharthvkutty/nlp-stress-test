@@ -1,0 +1,79 @@
+{
+  "sarcasm_explicit": [
+    "Yeah, fantastic phone.",
+    "Great job on the battery life.",
+    "Amazing quality, truly.",
+    "Just perfect, really.",
+    "Love how it stopped working."
+  ],
+
+  "sarcasm_implicit": [
+    "That was an experience.",
+    "Well, that happened.",
+    "I expected nothing and was still disappointed.",
+    "It certainly exists.",
+    "I have no words."
+  ],
+
+  "sarcasm_contrast": [
+    "Great phone, died in two hours.",
+    "Amazing product, returned it immediately.",
+    "Looks wonderful, works terribly.",
+    "Nice design, shame about everything else.",
+    "Excellent idea, awful execution."
+  ],
+
+  "negation_simple": [
+    "This product is not good.",
+    "I am not happy with this phone.",
+    "The service was not helpful.",
+    "This is not what I wanted.",
+    "The experience was not pleasant."
+  ],
+
+  "negation_scope": [
+    "I wouldn’t say this phone is good.",
+    "Not bad, but not great either.",
+    "I don’t think this works well.",
+    "It’s not exactly impressive.",
+    "I can’t really recommend this."
+  ],
+
+  "contrast_but": [
+    "The camera is good, but the battery is awful.",
+    "Fast performance, but terrible build quality.",
+    "Nice screen, but everything else fails.",
+    "Good idea, but poorly executed.",
+    "Affordable price, but disappointing results."
+  ],
+
+  "contrast_soft": [
+    "The phone works, but has issues.",
+    "It’s okay, but nothing special.",
+    "Decent product, but could be better.",
+    "Not terrible, but not impressive.",
+    "Usable, but frustrating."
+  ],
+
+  "implicit_action": [
+    "I returned it the same day.",
+    "I asked for a refund.",
+    "It’s still in the box.",
+    "I replaced it within a week.",
+    "I stopped using it."
+  ],
+
+  "implicit_state": [
+    "It hasn’t been touched since.",
+    "It’s been sitting unused.",
+    "I don’t use it anymore.",
+    "It’s gathering dust.",
+    "I moved on quickly."
+  ],
+
+  "normal": [
+    "It is wonderful.",
+    "I like it.",
+    "No Problem"
+  ]
+}

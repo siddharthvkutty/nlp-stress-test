@@ -1,0 +1,145 @@
+category,text,model,label,confidence,norm_label,low_confidence
+sarcasm_explicit,"Yeah, fantastic phone.",DistilBERT,POSITIVE,0.999777853488922,,False
+sarcasm_explicit,"Yeah, fantastic phone.",BERT,LABEL_1,0.99953031539917,POSITIVE,False
+sarcasm_explicit,"Yeah, fantastic phone.",RoBERTa,positive,0.9786686301231384,POSITIVE,False
+sarcasm_explicit,Great job on the battery life.,DistilBERT,POSITIVE,0.9996259212493896,,False
+sarcasm_explicit,Great job on the battery life.,BERT,LABEL_1,0.9992607235908508,POSITIVE,False
+sarcasm_explicit,Great job on the battery life.,RoBERTa,positive,0.975309669971466,POSITIVE,False
+sarcasm_explicit,"Amazing quality, truly.",DistilBERT,POSITIVE,0.9998865127563475,,False
+sarcasm_explicit,"Amazing quality, truly.",BERT,LABEL_1,0.9997424483299256,POSITIVE,False
+sarcasm_explicit,"Amazing quality, truly.",RoBERTa,positive,0.9582173228263856,POSITIVE,False
+sarcasm_explicit,"Just perfect, really.",DistilBERT,POSITIVE,0.9998695850372314,,False
+sarcasm_explicit,"Just perfect, really.",BERT,LABEL_1,0.9996293783187866,POSITIVE,False
+sarcasm_explicit,"Just perfect, really.",RoBERTa,positive,0.9632791876792908,POSITIVE,False
+sarcasm_explicit,Love how it stopped working.,DistilBERT,POSITIVE,0.9973756074905396,,False
+sarcasm_explicit,Love how it stopped working.,BERT,LABEL_0,0.5494228601455688,NEGATIVE,True
+sarcasm_explicit,Love how it stopped working.,RoBERTa,positive,0.359539270401001,POSITIVE,True
+sarcasm_implicit,That was an experience.,DistilBERT,POSITIVE,0.9957308173179626,,False
+sarcasm_implicit,That was an experience.,BERT,LABEL_1,0.9986215829849244,POSITIVE,False
+sarcasm_implicit,That was an experience.,RoBERTa,positive,0.8733782768249512,POSITIVE,False
+sarcasm_implicit,"Well, that happened.",DistilBERT,POSITIVE,0.9972002506256104,,False
+sarcasm_implicit,"Well, that happened.",BERT,LABEL_1,0.9856712222099304,POSITIVE,False
+sarcasm_implicit,"Well, that happened.",RoBERTa,neutral,0.6286181211471558,,True
+sarcasm_implicit,I expected nothing and was still disappointed.,DistilBERT,NEGATIVE,0.9993584752082824,,False
+sarcasm_implicit,I expected nothing and was still disappointed.,BERT,LABEL_0,0.9986683130264282,NEGATIVE,False
+sarcasm_implicit,I expected nothing and was still disappointed.,RoBERTa,negative,0.8303759098052979,NEGATIVE,False
+sarcasm_implicit,It certainly exists.,DistilBERT,POSITIVE,0.9998028874397278,,False
+sarcasm_implicit,It certainly exists.,BERT,LABEL_1,0.9995344877243042,POSITIVE,False
+sarcasm_implicit,It certainly exists.,RoBERTa,neutral,0.8037647604942322,,False
+sarcasm_implicit,I have no words.,DistilBERT,NEGATIVE,0.9993044137954712,,False
+sarcasm_implicit,I have no words.,BERT,LABEL_0,0.9563222527503968,NEGATIVE,False
+sarcasm_implicit,I have no words.,RoBERTa,negative,0.6988921165466309,NEGATIVE,False
+sarcasm_contrast,"Great phone, died in two hours.",DistilBERT,NEGATIVE,0.994101583957672,,False
+sarcasm_contrast,"Great phone, died in two hours.",BERT,LABEL_0,0.9929571151733398,NEGATIVE,False
+sarcasm_contrast,"Great phone, died in two hours.",RoBERTa,negative,0.4360735416412353,NEGATIVE,True
+sarcasm_contrast,"Amazing product, returned it immediately.",DistilBERT,POSITIVE,0.9998488426208496,,False
+sarcasm_contrast,"Amazing product, returned it immediately.",BERT,LABEL_1,0.9995306730270386,POSITIVE,False
+sarcasm_contrast,"Amazing product, returned it immediately.",RoBERTa,positive,0.9816340804100036,POSITIVE,False
+sarcasm_contrast,"Looks wonderful, works terribly.",DistilBERT,POSITIVE,0.999846577644348,,False
+sarcasm_contrast,"Looks wonderful, works terribly.",BERT,LABEL_1,0.99879789352417,POSITIVE,False
+sarcasm_contrast,"Looks wonderful, works terribly.",RoBERTa,negative,0.7991241812705994,NEGATIVE,False
+sarcasm_contrast,"Nice design, shame about everything else.",DistilBERT,POSITIVE,0.9969235062599182,,False
+sarcasm_contrast,"Nice design, shame about everything else.",BERT,LABEL_1,0.9733372926712036,POSITIVE,False
+sarcasm_contrast,"Nice design, shame about everything else.",RoBERTa,negative,0.370824247598648,NEGATIVE,True
+sarcasm_contrast,"Excellent idea, awful execution.",DistilBERT,POSITIVE,0.9360032677650452,,False
+sarcasm_contrast,"Excellent idea, awful execution.",BERT,LABEL_0,0.8633788824081421,NEGATIVE,False
+sarcasm_contrast,"Excellent idea, awful execution.",RoBERTa,negative,0.7202764749526978,NEGATIVE,False
+negation_simple,This product is not good.,DistilBERT,NEGATIVE,0.9998021721839904,,False
+negation_simple,This product is not good.,BERT,LABEL_0,0.9992154836654664,NEGATIVE,False
+negation_simple,This product is not good.,RoBERTa,negative,0.939147174358368,NEGATIVE,False
+negation_simple,I am not happy with this phone.,DistilBERT,NEGATIVE,0.999752938747406,,False
+negation_simple,I am not happy with this phone.,BERT,LABEL_0,0.9989163875579834,NEGATIVE,False
+negation_simple,I am not happy with this phone.,RoBERTa,negative,0.9289597868919371,NEGATIVE,False
+negation_simple,The service was not helpful.,DistilBERT,NEGATIVE,0.9997977614402772,,False
+negation_simple,The service was not helpful.,BERT,LABEL_0,0.9983580708503724,NEGATIVE,False
+negation_simple,The service was not helpful.,RoBERTa,negative,0.9157543182373048,NEGATIVE,False
+negation_simple,This is not what I wanted.,DistilBERT,NEGATIVE,0.9997597336769104,,False
+negation_simple,This is not what I wanted.,BERT,LABEL_0,0.9983670115470886,NEGATIVE,False
+negation_simple,This is not what I wanted.,RoBERTa,negative,0.8919358849525452,NEGATIVE,False
+negation_simple,The experience was not pleasant.,DistilBERT,NEGATIVE,0.9997972846031188,,False
+negation_simple,The experience was not pleasant.,BERT,LABEL_0,0.9986774325370787,NEGATIVE,False
+negation_simple,The experience was not pleasant.,RoBERTa,negative,0.9129483699798584,NEGATIVE,False
+negation_scope,I wouldn’t say this phone is good.,DistilBERT,NEGATIVE,0.9995378255844116,,False
+negation_scope,I wouldn’t say this phone is good.,BERT,LABEL_0,0.9934964179992676,NEGATIVE,False
+negation_scope,I wouldn’t say this phone is good.,RoBERTa,negative,0.60122150182724,NEGATIVE,True
+negation_scope,"Not bad, but not great either.",DistilBERT,NEGATIVE,0.9877154231071472,,False
+negation_scope,"Not bad, but not great either.",BERT,LABEL_0,0.5787681937217712,NEGATIVE,True
+negation_scope,"Not bad, but not great either.",RoBERTa,negative,0.7673161029815674,NEGATIVE,False
+negation_scope,I don’t think this works well.,DistilBERT,NEGATIVE,0.9997325539588928,,False
+negation_scope,I don’t think this works well.,BERT,LABEL_0,0.9989868998527528,NEGATIVE,False
+negation_scope,I don’t think this works well.,RoBERTa,negative,0.8721837997436523,NEGATIVE,False
+negation_scope,It’s not exactly impressive.,DistilBERT,NEGATIVE,0.9997825026512146,,False
+negation_scope,It’s not exactly impressive.,BERT,LABEL_0,0.9991320967674256,NEGATIVE,False
+negation_scope,It’s not exactly impressive.,RoBERTa,negative,0.8304402232170105,NEGATIVE,False
+negation_scope,I can’t really recommend this.,DistilBERT,NEGATIVE,0.7035173177719116,,False
+negation_scope,I can’t really recommend this.,BERT,LABEL_0,0.995325803756714,NEGATIVE,False
+negation_scope,I can’t really recommend this.,RoBERTa,negative,0.8945696949958801,NEGATIVE,False
+contrast_but,"The camera is good, but the battery is awful.",DistilBERT,NEGATIVE,0.996383786201477,,False
+contrast_but,"The camera is good, but the battery is awful.",BERT,LABEL_0,0.9885960221290588,NEGATIVE,False
+contrast_but,"The camera is good, but the battery is awful.",RoBERTa,negative,0.8313141465187073,NEGATIVE,False
+contrast_but,"Fast performance, but terrible build quality.",DistilBERT,NEGATIVE,0.9002713561058044,,False
+contrast_but,"Fast performance, but terrible build quality.",BERT,LABEL_0,0.9915338158607484,NEGATIVE,False
+contrast_but,"Fast performance, but terrible build quality.",RoBERTa,negative,0.8882240056991577,NEGATIVE,False
+contrast_but,"Nice screen, but everything else fails.",DistilBERT,NEGATIVE,0.996179223060608,,False
+contrast_but,"Nice screen, but everything else fails.",BERT,LABEL_0,0.9965986609458924,NEGATIVE,False
+contrast_but,"Nice screen, but everything else fails.",RoBERTa,negative,0.6645215153694153,NEGATIVE,False
+contrast_but,"Good idea, but poorly executed.",DistilBERT,NEGATIVE,0.9982537627220154,,False
+contrast_but,"Good idea, but poorly executed.",BERT,LABEL_0,0.955712080001831,NEGATIVE,False
+contrast_but,"Good idea, but poorly executed.",RoBERTa,negative,0.8163419961929321,NEGATIVE,False
+contrast_but,"Affordable price, but disappointing results.",DistilBERT,NEGATIVE,0.987116038799286,,False
+contrast_but,"Affordable price, but disappointing results.",BERT,LABEL_0,0.9867855906486512,NEGATIVE,False
+contrast_but,"Affordable price, but disappointing results.",RoBERTa,negative,0.8370434045791626,NEGATIVE,False
+contrast_soft,"The phone works, but has issues.",DistilBERT,NEGATIVE,0.9907641410827636,,False
+contrast_soft,"The phone works, but has issues.",BERT,LABEL_0,0.9748605489730836,NEGATIVE,False
+contrast_soft,"The phone works, but has issues.",RoBERTa,neutral,0.4747303128242492,,True
+contrast_soft,"It’s okay, but nothing special.",DistilBERT,NEGATIVE,0.9869431257247924,,False
+contrast_soft,"It’s okay, but nothing special.",BERT,LABEL_0,0.995471715927124,NEGATIVE,False
+contrast_soft,"It’s okay, but nothing special.",RoBERTa,neutral,0.6665905117988586,,False
+contrast_soft,"Decent product, but could be better.",DistilBERT,POSITIVE,0.937239110469818,,False
+contrast_soft,"Decent product, but could be better.",BERT,LABEL_1,0.7564108371734619,POSITIVE,False
+contrast_soft,"Decent product, but could be better.",RoBERTa,positive,0.549521267414093,POSITIVE,True
+contrast_soft,"Not terrible, but not impressive.",DistilBERT,NEGATIVE,0.993032455444336,,False
+contrast_soft,"Not terrible, but not impressive.",BERT,LABEL_0,0.9864100813865662,NEGATIVE,False
+contrast_soft,"Not terrible, but not impressive.",RoBERTa,negative,0.707027018070221,NEGATIVE,False
+contrast_soft,"Usable, but frustrating.",DistilBERT,NEGATIVE,0.5287662744522095,,True
+contrast_soft,"Usable, but frustrating.",BERT,LABEL_0,0.6863808631896973,NEGATIVE,False
+contrast_soft,"Usable, but frustrating.",RoBERTa,negative,0.8387746810913086,NEGATIVE,False
+implicit_action,I returned it the same day.,DistilBERT,POSITIVE,0.8234223127365112,,False
+implicit_action,I returned it the same day.,BERT,LABEL_1,0.9546638131141664,POSITIVE,False
+implicit_action,I returned it the same day.,RoBERTa,neutral,0.8365967869758606,,False
+implicit_action,I asked for a refund.,DistilBERT,NEGATIVE,0.9952777624130248,,False
+implicit_action,I asked for a refund.,BERT,LABEL_0,0.9900923371315002,NEGATIVE,False
+implicit_action,I asked for a refund.,RoBERTa,neutral,0.7617690563201904,,False
+implicit_action,It’s still in the box.,DistilBERT,POSITIVE,0.9355589747428894,,False
+implicit_action,It’s still in the box.,BERT,LABEL_0,0.7010675072669983,NEGATIVE,False
+implicit_action,It’s still in the box.,RoBERTa,neutral,0.8969935178756714,,False
+implicit_action,I replaced it within a week.,DistilBERT,NEGATIVE,0.9954434633255004,,False
+implicit_action,I replaced it within a week.,BERT,LABEL_0,0.9543883800506592,NEGATIVE,False
+implicit_action,I replaced it within a week.,RoBERTa,neutral,0.5839151740074158,,True
+implicit_action,I stopped using it.,DistilBERT,NEGATIVE,0.9996435642242432,,False
+implicit_action,I stopped using it.,BERT,LABEL_0,0.9924091100692748,NEGATIVE,False
+implicit_action,I stopped using it.,RoBERTa,negative,0.5235564112663269,NEGATIVE,True
+implicit_state,It hasn’t been touched since.,DistilBERT,POSITIVE,0.9579615592956544,,False
+implicit_state,It hasn’t been touched since.,BERT,LABEL_0,0.9793899655342102,NEGATIVE,False
+implicit_state,It hasn’t been touched since.,RoBERTa,negative,0.5015906691551208,NEGATIVE,True
+implicit_state,It’s been sitting unused.,DistilBERT,NEGATIVE,0.9995823502540588,,False
+implicit_state,It’s been sitting unused.,BERT,LABEL_0,0.9975983500480652,NEGATIVE,False
+implicit_state,It’s been sitting unused.,RoBERTa,negative,0.64656001329422,NEGATIVE,True
+implicit_state,I don’t use it anymore.,DistilBERT,NEGATIVE,0.9986978769302368,,False
+implicit_state,I don’t use it anymore.,BERT,LABEL_0,0.9925682544708252,NEGATIVE,False
+implicit_state,I don’t use it anymore.,RoBERTa,negative,0.5549304485321045,NEGATIVE,True
+implicit_state,It’s gathering dust.,DistilBERT,NEGATIVE,0.9997487664222716,,False
+implicit_state,It’s gathering dust.,BERT,LABEL_0,0.9980472326278688,NEGATIVE,False
+implicit_state,It’s gathering dust.,RoBERTa,negative,0.6229194402694702,NEGATIVE,True
+implicit_state,I moved on quickly.,DistilBERT,POSITIVE,0.998348355293274,,False
+implicit_state,I moved on quickly.,BERT,LABEL_1,0.9652480483055116,POSITIVE,False
+implicit_state,I moved on quickly.,RoBERTa,neutral,0.5416321158409119,,True
+normal,It is wonderful.,DistilBERT,POSITIVE,0.9998748302459716,,False
+normal,It is wonderful.,BERT,LABEL_1,0.9997496008872986,POSITIVE,False
+normal,It is wonderful.,RoBERTa,positive,0.9668498635292052,POSITIVE,False
+normal,I like it.,DistilBERT,POSITIVE,0.999869465827942,,False
+normal,I like it.,BERT,LABEL_1,0.9996744394302368,POSITIVE,False
+normal,I like it.,RoBERTa,positive,0.848222553730011,POSITIVE,False
+normal,No Problem,DistilBERT,POSITIVE,0.9964500665664672,,False
+normal,No Problem,BERT,LABEL_1,0.9980448484420776,POSITIVE,False
+normal,No Problem,RoBERTa,neutral,0.4923980832099914,,True

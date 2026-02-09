@@ -1,0 +1,26 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (optional but recommended)
+.vscode/
+
+# Hugging Face cache (NEVER commit models)
+.cache/
+~/.cache/
+
+# Logs
+*.log
+
