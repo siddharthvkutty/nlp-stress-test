@@ -16,10 +16,8 @@ Goal: help researchers & practitioners understand real-world failure modes befor
 
 ## ✨ Key Features
 
-- Modular attack & perturbation generators (text-based adversarial examples)
 - Support for classification, sequence labeling, generation, and embedding tasks
-- Black-box and white-box attack methods
-- Multiple evaluation metrics: accuracy drop, attack success rate, BLEU/ROUGE/BERTScore degradation, etc.
+- Multiple evaluation metrics
 - Built-in support for Hugging Face models + custom PyTorch modules
 - Easy to extend with new perturbations / attacks / datasets
 - Jupyter notebooks with visualizations and failure case analysis
