@@ -1,5 +1,15 @@
 # NLP Sentiment Stress Test Framework
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.9%2B-blue?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-2.0%2B-orange?style=flat&logo=pytorch" alt="PyTorch">
+  <img src="https://img.shields.io/badge/HuggingFace-Transformers-purple?style=flat&logo=huggingface" alt="Transformers">
+  <img src="https://img.shields.io/badge/license-MIT-green?style=flat" alt="License: MIT">
+  <img src="https://img.shields.io/badge/scikit--learn-Metrics-orange" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/Streamlit-GUI-brightgreen" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Models-BERT%20%7C%20RoBERTa%20%7C%20DistilBERT-blueviolet" alt="Models">
+</p>
+
 A multi-model transformer-based framework for stress testing sentiment classifiers.
 
 This project compares fine-tuned BERT, RoBERTa, and DistilBERT models on linguistically difficult sentiment inputs. It supports both interactive sentence evaluation and labeled dataset benchmarking.
@@ -37,7 +47,7 @@ Each model predicts:
 
 ## Installation
 
-### 1. Create a virtual environment
+### 1. Create a virtual environment (Optional)
 
 ```bash
 python3 -m venv .venv
@@ -87,21 +97,17 @@ Upload a CSV or JSON file with:
 
 Example CSV:
 
-text,label
-"This movie was amazing",positive
+text,label<br>
+"This movie was amazing",positive<br>
 "I hated it",negative
 
 The system will:
 
-Encode labels
-
-Run predictions
-
-Compute metrics
-
-Show agreement between models
-
-Show ensemble performance
+- Encode labels
+- Run predictions
+- Compute metrics
+- Show agreement between models
+- Show ensemble performance
 
 ## Metrics Reported
 
@@ -111,7 +117,8 @@ Show ensemble performance
 - F1-score (weighted)
 - Model agreement score
 - Ensemble performance
-- What This Project Is
+ 
+## What This Project Is
 
 This is a sentiment robustness testing framework.
 
