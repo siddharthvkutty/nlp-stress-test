@@ -1,0 +1,11 @@
+text,label
+"I like this product so much that it is collecting dust.",negative
+"The product is so good that it is collecting dust.",negative
+"This product has no use but I enjoy it anyways.",positive
+"This product is completely useless and yet I bought one.",positive
+"I dislike this product greatly.",negative
+"I guess if you like wasting time, this is perfect.",negative
+"Against all odds, I actually loved it.",positive
+"I can't believe how much I didn't hate this.",positive
+"An unexpected gem hidden beneath a slow start.",positive
+"Well, that was certainly a movie.",negative

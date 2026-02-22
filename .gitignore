@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc.*
+
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Streamlit
+.streamlit/
+
+# HuggingFace cache (usually global but safe to ignore)
+.cache/
+huggingface/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Data files (optional)
+# Uncomment if you don't want datasets in repo
+# data/*.csv
+# data/*.json
+
+# Model checkpoints (if ever added locally)
+*.pt
+*.bin

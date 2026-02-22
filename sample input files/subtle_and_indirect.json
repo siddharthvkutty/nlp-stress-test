@@ -1,0 +1,26 @@
+[
+  {
+    "text": "It’s not the worst thing I’ve ever seen.",
+    "label": "negative"
+  },
+  {
+    "text": "I didn’t regret watching it.",
+    "label": "positive"
+  },
+  {
+    "text": "There were moments that almost worked.",
+    "label": "negative"
+  },
+  {
+    "text": "It left me smiling more often than not.",
+    "label": "positive"
+  },
+  {
+    "text": "Some parts were enjoyable, others… not so much.",
+    "label": "negative"
+  },
+  {
+    "text": "It quietly surprised me in the best way.",
+    "label": "positive"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "text": "The cinematography was stunning and the performances were excellent. Unfortunately, the plot made absolutely no sense and ruined the entire experience for me.",
+    "label": "negative"
+  },
+  {
+    "text": "At first I thought it would be awful, but as it went on, it completely won me over.",
+    "label": "positive"
+  },
+  {
+    "text": "Everything about this film screams quality, yet somehow it feels hollow.",
+    "label": "negative"
+  },
+  {
+    "text": "Despite its flaws, I couldn't help but admire its ambition and creativity.",
+    "label": "positive"
+  },
+  {
+    "text": "It starts strong, dips in the middle, and never quite recovers.",
+    "label": "negative"
+  },
+  {
+    "text": "I expected nothing and got something genuinely entertaining.",
+    "label": "positive"
+  }
+]
